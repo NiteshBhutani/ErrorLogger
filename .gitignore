@@ -6,36 +6,26 @@ BuildProcessTemplates/
 $tf/
 
 #Build Result
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Rr]eleases/
+**/x64/
+**/x86/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
 
-*.obj
-*.pch
-*.pdb
-*.pgc
-*.pgd
-*.rsp
-*.sbr
-*.tlb
-*.tli
-*.tlh
-*.tmp
-*.tmp_proj
-*.log
-*.vspscc
-*.vssscc
-.builds
-*.pidb
-*.svclog
-*.scc
+**.obj
+**.pch
+**.pdb
+**.tmp
+**.tmp_proj
+**.log
+**.vspscc
+**.vssscc
+**.pidb
+**.svclog
+**.scc
 
-ipch/
-*.VC.db
+**/ipch/
+**.VC.db
