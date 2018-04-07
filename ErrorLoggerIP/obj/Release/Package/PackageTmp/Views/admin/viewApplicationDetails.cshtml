@@ -1,0 +1,27 @@
+﻿@model ErrorLoggerModel.ApplicationViewDetailMV
+@{
+    ViewBag.Title = "Application Detail";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="~/Content/viewError.css" type="text/css" />
+</head>
+
+<h1> Application Details </h1>
+
+<div class="DetailBox">
+    <p style="font-size:larger;"> <b style="color:black"> Application ID :</b> @Model.applicationID</p>
+    <p style="font-size:larger"> <b style="color:black"> Application Name :</b>@Model.applicationName</p>
+    <p style="font-size:larger"> <b style="color:black"> Application Description :</b> @Model.applicationDesc</p>
+    <p style="font-size:larger"> <b style="color:black"> Application Status :</b> @Model.applicationStatus</p>
+    <p style="font-size:larger; margin-bottom:0px;"> <b style="color:black"> Users :</b> 
+    @foreach(string user in Model.userEmail)
+    {
+        <ul style="padding-left:70px; margin-bottom:0px;"> @user </ul>
+    }
+    </p>
+
+</div>
+
+<a href=@Url.Action("Index") class="btn btn-primary" style="margin-top:40px;">  Back to Home Page </a>

@@ -1,0 +1,72 @@
+﻿@model ErrorLoggerModel.AdminIndexViewModel
+@{
+    ViewBag.Title = "Admin Index Page";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="~/Content/viewError.css" type="text/css" />
+</head>
+
+<br />
+<br />
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title" style="display:inline">Users</h3>
+    </div>
+    <div class="panel-body">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> # </th>
+                    <th> First Name</th>
+                    <th> Last Name </th>
+                    <th> Last Login Timestamp </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i=1; i <= Model.userFirstName.Count; i++)
+                {
+                    <tr>
+                        <th scope="row">@i</th>
+                        <td> @Model.userFirstName[i-1]</td>
+                        <td> @Model.userLastName[i-1]</td>
+                        <td> @Model.userLastLoginTimestamp[i-1]</td>
+                        <td> @Html.ActionLink("View Details", "viewUserDetails", "Admin", new { userID = @Model.userID[i - 1] }, null)  | @Html.ActionLink("Edit", "EditUser", "Admin", new { userID = @Model.userID[i - 1] }, null)  </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+ </div>
+
+<div class="panel panel-primary clearfix">
+    <div class="panel-heading">
+        <h3 class="panel-title" style="display:inline">Applications</h3>
+        <div class="pull-right">
+            <a href=@Url.Action("createApplication") class="btn btn-default btn-sm"> <span class="glyphicon glyphicon-plus"></span> Create Application</a>
+        </div>
+    </div>
+    <div class="panel-body">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> # </th>
+                    <th> Application Name</th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 1; i <= Model.applicationName.Count; i++)
+                {
+                    <tr>
+                        <th scope="row">@i</th>
+                        <td> @Model.applicationName[i - 1]</td>
+                        <td> @Html.ActionLink("View Details ", "viewApplicationDetails", "Admin", new { appId = @Model.applicationID[i - 1] }, null) | @Html.ActionLink("Edit", "EditApplication", "Admin", new { appID = @Model.applicationID[i - 1] }, null)  | @Html.ActionLink("View Error ", "viewError", "Error", new { appId = @Model.applicationID[i - 1] }, null) </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    </div>

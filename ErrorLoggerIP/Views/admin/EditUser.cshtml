@@ -1,0 +1,90 @@
+﻿@using ErrorLoggerConstant
+@model ErrorLoggerModel.EditUserMV
+
+@{
+    ViewBag.Title = "Edit User";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="~/Content/login.css?v={random number/string}" type="text/css" />
+</head>
+
+
+@if (@TempData["userCreateMessage"] == null)
+{
+using (Html.BeginForm())
+{   <div class="Formclass">
+        @Html.AntiForgeryToken()
+        <h2 style="text-align:center">Edit User</h2>
+
+        <form class="form-horizontal">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group row col-md-offset-1">
+                @Html.LabelFor(model => model.Email, new { @class = "col-lg-5 control-label" })
+                <div class="col-md-7">
+                    @Html.TextBoxFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+
+            
+            <div class="form-group row col-md-offset-1">
+                @Html.LabelFor(model => model.FirstName, new { @class = "col-lg-5 control-label" })
+                <div class="col-md-7">
+                    @Html.TextBoxFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+                @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group row col-md-offset-1">
+                @Html.LabelFor(model => model.LastName, new { @class = "col-lg-5 control-label" })
+                <div class="col-md-7">
+                    @Html.TextBoxFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+                @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group row col-md-offset-1">
+                @Html.LabelFor(model => model.Status, new { @class = "col-lg-5 control-label" })
+                <div class="col-md-7">
+                    @Html.DropDownListFor(model => model.Status, new SelectList(Enum.GetValues(typeof(StatusEnum))), new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+                @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group row col-md-offset-1">
+                @Html.LabelFor(model => model.Role, new { @class = "col-lg-5 control-label" })
+                <div class="col-md-7">
+                    @Html.DropDownListFor(model => model.Role, new SelectList(Enum.GetValues(typeof(Role_))), new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+                @Html.ValidationMessageFor(model => model.Role, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group row col-md-offset-1">
+                @Html.LabelFor(model => model.Applications, new { @class = "col-lg-5 control-label" })
+                <div class="col-md-7">
+                    @Html.ListBoxFor(model => model.submittedApplications, Model.Applications, new { multiple = "multiple", size = 6 })
+                </div>
+                @Html.ValidationMessageFor(model => model.Applications, "", new { @class = "text-danger" })
+            </div>
+
+            
+            <div class="form-group row">
+                <div class="col-md-offset-4 col-md-10">
+            
+                    <input type="submit" value="Submit" class="btn btn-primary" />
+                </div>
+            </div>
+        
+        </form>
+    </div>
+}
+}
+else
+{
+
+    <p style="text-align:center; padding-top:10px;">@TempData["userCreateMessage"]</p>
+    <a href=@Url.Action("Index") class="btn btn-primary" >  Back to Home Page </a>
+}
+

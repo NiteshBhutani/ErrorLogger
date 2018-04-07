@@ -1,0 +1,90 @@
+﻿@model List<ErrorLoggerModel.ErrorListViewModel>
+@{
+    if (Model.FirstOrDefault() != null) {
+        ViewBag.Title = Model.First().applicationName + " Error List Page"; }
+    else {
+        ViewBag.Title = "Error List Page";
+    }
+
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+    Model.Reverse();
+    int i = Model.Count;
+    int max = Model.Count;
+ }
+
+<head>
+    <link rel="stylesheet" href="~/Content/viewError.css" type="text/css" />
+</head>
+<script src="~/Content/errorSearchScript.js" type="text/javascript">
+    
+</script>
+    
+<br />
+<br />
+
+<div class="panel panel-primary">
+    @if (Model.FirstOrDefault() != null)
+    {
+    <div class="panel-heading"> Error for Application : @Model.First().applicationName</div>
+    }
+    else
+    {
+        <div class="panel-heading"> Error for Application </div>
+    }
+    <div class="panel-body">
+        <table class="table" id="ErrorTable">
+            <thead>
+                <tr>
+                    <th> # </th>
+                    <!--<th> Log Level</th>-->
+                    <th> @Html.ActionLink("Log Level", "viewError", new { appID = Model.FirstOrDefault() == null ? 0 : Model.First().appID, sortParam = ViewBag.LogLevelParm }) </th>
+                    <!--<th> Error Description </th>-->
+                    <th> @Html.ActionLink("Error Description", "viewError", new { appID = Model.FirstOrDefault() == null ? 0 : Model.First().appID, sortParam = ViewBag.ErrDesc }) </th>
+                    <!-- <th> Timestamp </th> -->
+                    <th> @Html.ActionLink("Timestamp", "viewError", new { appID = Model.FirstOrDefault() == null ? 0 : Model.First().appID, sortParam = ViewBag.DateSortParm }) </th>
+                    <!--<th> Exception Message </th>-->
+                    <th> @Html.ActionLink("Exception Message", "viewError", new { appID = Model.FirstOrDefault() == null ? 0 : Model.First().appID, sortParam = ViewBag.ExMsg }) </th>
+                </tr>
+                <tr>
+                    <th></th>
+                    <th >
+                        <input type="text" id="logLevelInput" onkeyup="errorSearch(0)" placeholder= "Log Level"/>
+                    </th>
+                    <th>
+                        <input type="text" id="errDescinput" onkeyup="errorSearch(1)" placeholder= "Error Description" />
+                    </th>
+                    <th>
+                        <input type="text" id="timestampInput" onkeyup="errorSearch(2)" placeholder= "Timestamp" />
+                    </th>
+                    <th>
+                        <input type="text" id="exceptionInput" onkeyup="errorSearch(3)" placeholder= "Exception Message" />
+                    </th>
+                </tr> 
+            </thead>
+            <tbody> 
+                @foreach (ErrorLoggerModel.ErrorListViewModel error in Model)
+                {
+                    <tr>
+                        <th scope="row">@i</th>
+                        <td> @error.logLevel</td>
+                        <td> @error.errorDescription</td>
+                        <td> @error.timestamp</td>
+                        <td> @error.exceptionMessage</td>
+                    </tr>
+                    if (@i.Equals(max-200))
+                    { break; }
+                    i--;
+
+                }
+            </tbody>
+        </table>
+    </div>
+    </div>
+<h4><b><u> Graphical representation of Log Level </u></b></h4>
+
+<canvas id="ErrorCanvas"></canvas>
+<div id="ErrorLegend"></div>
+<br />
+<br />
+<script>drawPiechart(@TempData["info"],@TempData["debug"],@TempData["error"],@TempData["performance"],@TempData["fatal"]);</script>
+<a href=@Url.Action("Index","User") class="btn btn-primary" style="margin-top:5px; margin-bottom:20px">  Back to Home Page </a>

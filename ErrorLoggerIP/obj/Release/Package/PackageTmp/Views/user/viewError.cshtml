@@ -1,0 +1,48 @@
+﻿@model List<ErrorLoggerModel.ErrorListViewModel>
+@{
+    ViewBag.Title = "Error List Page :"+ Model.First().appID;
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+    Model.Reverse();
+    int i = Model.Count;
+    int max = Model.Count;
+}
+
+<head>
+    <link rel="stylesheet" href="~/Content/viewError.css" type="text/css" />
+</head>
+
+<br />
+<br />
+<div class="panel panel-primary">
+    <div class="panel-heading"> Error for Application : @Model.First().applicationName</div>
+    <div class="panel-body">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> # </th>
+                    <th> Log Level</th>
+                    <th> Error Description </th>
+                    <th> Timestamp </th>
+                    <th> Exception Message </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (ErrorLoggerModel.ErrorListViewModel error in Model)
+                {
+                    <tr>
+                        <th scope="row">@i</th>
+                        <td> @error.logLevel</td>
+                        <td> @error.errorDescription</td>
+                        <td> @error.timestamp</td>
+                        <td> @error.exceptionMessage</td>
+                    </tr>
+                    if (@i.Equals(max-100))
+                    { break; }
+                    i--;
+
+                }
+            </tbody>
+        </table>
+    </div>
+    </div>
+

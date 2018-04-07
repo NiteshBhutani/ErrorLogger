@@ -1,0 +1,24 @@
+﻿@model ICollection<ErrorLoggerModel.UserIndexViewModel>
+
+@{
+    ViewBag.User = Session["userName"].ToString();
+    ViewBag.Title = "Index";
+
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="~/Content/viewError.css" type="text/css" />
+</head>
+
+<h2> No of Applications are: @Model.Count()</h2>
+<div class="DetailBox">
+
+    @foreach (ErrorLoggerModel.UserIndexViewModel application in Model)
+    {
+        <p>
+            Name = @application.applicationName <br />
+            @Html.ActionLink("Error Logs details for application " + @application.applicationName, "viewError", "Error", new { appId = @application.applicationID }, null)<br />
+    </p>
+    }
+ </div>

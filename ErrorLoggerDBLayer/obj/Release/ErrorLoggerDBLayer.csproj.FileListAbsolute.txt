@@ -1,0 +1,14 @@
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\ErrorLoggerDBLayer.dll.config
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\ErrorLoggerDBLayer.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\ErrorLoggerDBLayer.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\EntityFramework.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\ErrorLoggerModel.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\ErrorLoggerModel.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\EntityFramework.xml
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\obj\Release\ErrorLoggerDBLayer.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\obj\Release\ErrorLoggerDBLayer.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\obj\Release\ErrorLoggerDBLayer.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\System.Web.Mvc.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerDBLayer\bin\Release\System.Web.Mvc.xml

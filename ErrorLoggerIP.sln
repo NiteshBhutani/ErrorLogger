@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLoggerIP", "ErrorLoggerIP\ErrorLoggerIP.csproj", "{93B16614-DBFD-4A9F-BC78-82C66F4025A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLoggerCommon", "ErrorLoggerModel\ErrorLoggerCommon.csproj", "{C3ECEA79-ADEC-49FA-B4C7-8B7471D66667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadersNLogic", "LoadersNLogic\LoadersNLogic.csproj", "{23916FD2-A997-40F9-886A-96BA7578241E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLoggerDBLayer", "ErrorLoggerDBLayer\ErrorLoggerDBLayer.csproj", "{A96BB339-E2CC-40B9-9078-18A319CE5585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{79042592-A0FC-4D1C-9194-89FCBDA5A387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLoggerRestAPI", "ErrorLoggerRestAPI\ErrorLoggerRestAPI.csproj", "{0BA3C5C0-82BF-4E5E-8AF8-D9A21AB0B5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLLibrary", "DLLLibrary\DLLLibrary.csproj", "{48DEABBB-3867-44CC-9346-ED79404EED12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B16614-DBFD-4A9F-BC78-82C66F4025A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B16614-DBFD-4A9F-BC78-82C66F4025A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B16614-DBFD-4A9F-BC78-82C66F4025A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B16614-DBFD-4A9F-BC78-82C66F4025A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3ECEA79-ADEC-49FA-B4C7-8B7471D66667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3ECEA79-ADEC-49FA-B4C7-8B7471D66667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3ECEA79-ADEC-49FA-B4C7-8B7471D66667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3ECEA79-ADEC-49FA-B4C7-8B7471D66667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23916FD2-A997-40F9-886A-96BA7578241E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23916FD2-A997-40F9-886A-96BA7578241E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23916FD2-A997-40F9-886A-96BA7578241E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23916FD2-A997-40F9-886A-96BA7578241E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96BB339-E2CC-40B9-9078-18A319CE5585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96BB339-E2CC-40B9-9078-18A319CE5585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96BB339-E2CC-40B9-9078-18A319CE5585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96BB339-E2CC-40B9-9078-18A319CE5585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79042592-A0FC-4D1C-9194-89FCBDA5A387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79042592-A0FC-4D1C-9194-89FCBDA5A387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79042592-A0FC-4D1C-9194-89FCBDA5A387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79042592-A0FC-4D1C-9194-89FCBDA5A387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA3C5C0-82BF-4E5E-8AF8-D9A21AB0B5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA3C5C0-82BF-4E5E-8AF8-D9A21AB0B5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA3C5C0-82BF-4E5E-8AF8-D9A21AB0B5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA3C5C0-82BF-4E5E-8AF8-D9A21AB0B5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DEABBB-3867-44CC-9346-ED79404EED12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DEABBB-3867-44CC-9346-ED79404EED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DEABBB-3867-44CC-9346-ED79404EED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DEABBB-3867-44CC-9346-ED79404EED12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://niteshbhutani.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ErrorLoggerDBLayer\\ErrorLoggerDBLayer.csproj
+		SccProjectName1 = ErrorLoggerDBLayer
+		SccLocalPath1 = ErrorLoggerDBLayer
+		SccProjectUniqueName2 = ErrorLoggerIP\\ErrorLoggerIP.csproj
+		SccProjectName2 = ErrorLoggerIP
+		SccLocalPath2 = ErrorLoggerIP
+		SccProjectUniqueName3 = LoadersNLogic\\LoadersNLogic.csproj
+		SccProjectName3 = LoadersNLogic
+		SccLocalPath3 = LoadersNLogic
+		SccProjectUniqueName4 = ErrorLoggerModel\\ErrorLoggerCommon.csproj
+		SccProjectName4 = ErrorLoggerModel
+		SccLocalPath4 = ErrorLoggerModel
+		SccProjectUniqueName5 = TestHarness\\TestHarness.csproj
+		SccProjectName5 = TestHarness
+		SccLocalPath5 = TestHarness
+		SccProjectUniqueName6 = ErrorLoggerRestAPI\\ErrorLoggerRestAPI.csproj
+		SccProjectName6 = ErrorLoggerRestAPI
+		SccLocalPath6 = ErrorLoggerRestAPI
+		SccProjectUniqueName7 = DLLLibrary\\DLLLibrary.csproj
+		SccProjectName7 = DLLLibrary
+		SccLocalPath7 = DLLLibrary
+	EndGlobalSection
+EndGlobal

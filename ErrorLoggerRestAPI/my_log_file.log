@@ -1,0 +1,362 @@
+2017-05-05 15:25:03,144 [12] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:25:54,911 [11] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:27:28,165 [11] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 15:29:16,114 [12] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 15:42:46,503 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:44:19,582 [36] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:45:10,260 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 15:45:59,665 [32] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:46:10,915 [36] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 15:47:11,010 [32] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 15:52:00,142 [26] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:53:32,505 [28] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:54:23,460 [26] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 15:55:12,544 [14] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:55:45,639 [28] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 15:56:52,599 [18] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:57:07,822 [14] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 15:58:32,604 [28] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 15:59:00,041 [18] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:00:12,662 [18] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:01:29,231 [28] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:01:52,727 [14] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:03:32,739 [9] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:03:43,498 [18] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:05:12,789 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:05:57,790 [14] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:06:52,796 [18] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:07:27,842 [9] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:09:44,695 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:11:36,855 [18] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:11:41,903 [47] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:13:28,621 [47] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:16:14,482 [48] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:18:06,688 [48] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2017-05-05 16:19:52,501 [53] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:19:56,575 [53] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:15,091 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:17,801 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:17,862 [58] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:17,996 [58] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:18,036 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:18,170 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:18,186 [66] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:18,326 [66] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:18,341 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:18,479 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:18,522 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:18,659 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:18,713 [66] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:18,856 [66] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:18,902 [60] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:19,036 [60] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:19,045 [60] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:19,181 [60] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:35:19,213 [66] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:35:19,342 [66] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:36:16,555 [60] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:36:16,699 [60] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:23,609 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:23,741 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:30,548 [61] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:35,717 [61] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:39,469 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:39,603 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:39,626 [61] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:39,766 [61] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:39,794 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:39,933 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:39,953 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:40,090 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:40,122 [66] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:40,260 [66] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:40,283 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:40,417 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:40,437 [61] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:40,574 [61] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:37:40,582 [61] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:37:40,715 [61] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:02,306 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:02,438 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:02,454 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:02,583 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:02,593 [61] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:02,754 [61] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:02,815 [52] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:02,957 [52] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:02,972 [52] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:03,102 [52] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:03,109 [61] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:03,241 [61] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:03,249 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:03,387 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:03,395 [52] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:03,526 [52] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:03,533 [66] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:03,667 [66] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:39:03,680 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:39:03,819 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:12,719 [57] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:12,884 [57] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:12,895 [66] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:13,031 [66] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:13,072 [61] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:13,217 [61] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:13,229 [57] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:13,365 [57] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:13,394 [57] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:13,533 [57] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:13,543 [54] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:13,680 [54] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:13,686 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:13,819 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:13,834 [57] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:13,965 [57] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:13,977 [57] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:14,110 [57] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:14,126 [57] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:14,256 [57] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:40:29,089 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:40:29,224 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:38,674 [47] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:39,831 [47] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:39,855 [47] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:39,992 [47] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:40,013 [47] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:40,150 [47] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:40,192 [46] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:40,324 [46] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:40,341 [47] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:40,472 [47] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:40,479 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:40,609 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:40,618 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:40,752 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:40,760 [51] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:40,890 [51] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:40,900 [47] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:41,031 [47] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:44:41,040 [62] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:44:41,176 [62] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:33,895 [53] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:36,975 [53] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:37,008 [59] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:37,142 [59] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:37,155 [13] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:37,294 [13] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:37,303 [53] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:37,439 [53] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:37,481 [14] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:37,615 [14] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:37,638 [18] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:37,774 [18] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:37,792 [14] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:37,928 [14] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:37,971 [18] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:38,112 [18] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:38,129 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:38,261 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 16:52:38,287 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 16:52:38,422 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:28,604 [14] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:33,025 [14] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:33,080 [60] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:33,215 [60] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:33,303 [18] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:33,438 [18] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:33,472 [55] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:33,614 [55] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:33,647 [60] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:33,788 [60] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:33,833 [14] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:33,971 [14] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:34,014 [28] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:34,147 [28] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:34,157 [60] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:34,295 [60] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:34,352 [18] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:34,487 [18] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:02:34,517 [14] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:02:34,660 [14] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:04:10,405 [60] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:04:10,547 [60] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:34,443 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:34,820 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:34,843 [32] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:34,990 [32] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:35,005 [19] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:35,152 [19] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:35,164 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:35,298 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:35,323 [32] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:35,454 [32] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:35,464 [32] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:35,601 [32] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:35,612 [56] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:35,746 [56] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:35,764 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:35,913 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:35,931 [19] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:36,067 [19] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:45:36,085 [63] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:45:36,222 [63] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:31,366 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:31,537 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:36,452 [20] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:36,587 [20] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:40,149 [20] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:40,300 [20] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:40,307 [56] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:40,439 [56] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:40,453 [20] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:40,588 [20] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:40,622 [25] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:40,758 [25] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:40,772 [25] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:40,910 [25] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:40,922 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:41,058 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:41,083 [25] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:41,223 [25] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:47:41,230 [44] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:47:41,365 [44] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:22,723 [35] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:22,899 [35] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:22,925 [32] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:23,134 [32] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:23,164 [34] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:23,301 [34] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:23,311 [35] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:23,444 [35] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:23,464 [32] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:23,607 [32] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:23,629 [25] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:23,769 [25] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:23,778 [20] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:23,913 [20] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:23,949 [35] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:24,089 [35] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:24,107 [20] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:24,244 [20] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:50:24,253 [30] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:50:24,389 [30] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:03,494 [32] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:03,632 [32] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:03,659 [20] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:03,805 [20] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:03,828 [25] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:03,972 [25] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:03,993 [40] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:04,128 [40] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:04,136 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:04,268 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:04,276 [25] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:04,408 [25] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:04,414 [32] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:04,547 [32] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:04,561 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:04,699 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:04,737 [27] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:04,880 [27] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:52:04,920 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:52:05,063 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:00,288 [64] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:00,474 [64] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:00,785 [27] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:00,944 [27] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:01,038 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:01,263 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:01,502 [27] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:01,740 [27] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:01,914 [27] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:02,228 [27] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:02,423 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:02,652 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:02,737 [25] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:02,937 [25] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:03,113 [66] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:03,384 [66] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:03,545 [10] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:03,894 [10] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:04,013 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:04,474 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:55,092 [64] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:55,254 [64] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:55,447 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:55,774 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:55,932 [10] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:56,106 [10] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:56,294 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:56,514 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:56,647 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:57,253 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:57,366 [10] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:58,142 [10] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:58,333 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:58,510 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:58,601 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:58,853 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:59,018 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:59,265 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:53:59,396 [10] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:53:59,605 [10] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:46,429 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:46,588 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:46,765 [10] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:46,965 [10] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:47,248 [64] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:47,552 [64] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:47,674 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:47,876 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:48,084 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:48,319 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:48,468 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:48,738 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:48,873 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:49,124 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:49,315 [10] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:49,544 [10] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:49,603 [64] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:49,789 [64] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:54:49,840 [10] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:54:50,086 [10] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:45,643 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:46,517 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:47,002 [64] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:47,354 [64] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:47,547 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:47,727 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:47,913 [40] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:48,152 [40] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:48,284 [41] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:48,500 [41] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:48,644 [41] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:48,877 [41] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:49,008 [41] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:49,283 [41] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:49,416 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:49,664 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:49,777 [40] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:50,033 [40] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:56:50,114 [33] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:56:50,322 [33] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:01,221 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:04,819 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:04,858 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:04,989 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:05,002 [41] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:05,133 [41] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:05,140 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:05,272 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:05,282 [40] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:05,414 [40] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:05,421 [5] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:05,554 [5] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:05,561 [41] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:05,696 [41] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:05,704 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:05,838 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:05,845 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:05,976 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.
+2017-05-05 17:59:05,985 [38] DEBUG BasicRestApplication.Controllers.ValuesController - POST Request traced
+2017-05-05 17:59:06,118 [38] DEBUG BasicRestApplication.Controllers.ValuesController - Database Save Error: An error occurred while updating the entries. See the inner exception for details.

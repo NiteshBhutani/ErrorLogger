@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Error Page";
+    
+    Layout = "~/Views/Shared/_Layout.cshtml"; 
+}
+
+<h3 class="text-danger">An error occurred while processing your request. Feel free to contact the admin.</h3>
+
+<b>Error details:</b>@(TempData["errorMessage"] == null ? "No details" : TempData["errorMessage"])
+
+<br />

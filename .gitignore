@@ -1,0 +1,6 @@
+packages/
+Logs/
+Files/
+BuildProcessTemplates/
+.vs/
+$tf/

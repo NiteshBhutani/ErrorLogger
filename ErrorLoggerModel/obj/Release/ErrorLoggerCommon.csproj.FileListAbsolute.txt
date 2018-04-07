@@ -1,0 +1,7 @@
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerModel\bin\Release\ErrorLoggerModel.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerModel\bin\Release\ErrorLoggerModel.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerModel\obj\Release\ErrorLoggerCommon.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerModel\obj\Release\ErrorLoggerModel.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerModel\obj\Release\ErrorLoggerModel.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerModel\bin\Release\System.Web.Mvc.dll
+C:\Users\Nitesh\Documents\Visual Studio 2015\Projects\ErrorLoggerIP\ErrorLoggerModel\bin\Release\System.Web.Mvc.xml
